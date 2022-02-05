@@ -1,8 +1,5 @@
-# Repo_3
- Probando ahora la app de escritorio
+# Introducción a Python
 
-**Aprendiendo a hacer cambios**
 
-Ahora insertaremos una imagen
 
 ![hack](img/down.jpeg)
